@@ -17,7 +17,7 @@ const Navbar = () => {
           
             <Link href={"#Contact"} className="mr-5 hover:text-blue-300">Contact</Link>
           </nav>
-          <button className="inline-flex items-center bg-blue-700 border-0 py-1 px-3 focus:outline-none hover:bg-blue-400 rounded text-base mt-4 md:mt-0" >
+          <button className="inline-flex items-center bg-blue-500 border-0 py-1 px-3 focus:outline-none hover:bg-blue-600 rounded text-base mt-4 md:mt-0" >
             <a href="#"/>
             Check CV
             <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-1" viewBox="0 0 24 24">
